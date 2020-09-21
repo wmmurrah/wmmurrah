@@ -1,16 +1,14 @@
-### Hi there 👋
+## William M., (Hank) Murrah
 
-<!--
-**wmmurrah/wmmurrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Quantitative Methods in Educational Research (QMER)
 
-Here are some ideas to get you started:
+[QMER website](https://amp0129.wixsite.com/qmer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Auburn R User Group website](auqmer.github.io/qmer_rug/)
+
+[Personal website](https:://statistical-thinking.comP+)
+
+#### Auburn University
+
+
+
