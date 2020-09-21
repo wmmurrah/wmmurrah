@@ -4,9 +4,9 @@
 
 [QMER website](https://amp0129.wixsite.com/qmer)
 
-[Auburn R User Group website](auqmer.github.io/qmer_rug/)
+[Auburn R User Group website](https://auqmer.github.io/qmer_rug)
 
-[Personal website](https:://statistical-thinking.comP+)
+[Personal website](https://www.statistical-thinking.com/)
 
 #### Auburn University
 
