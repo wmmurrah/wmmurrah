@@ -4,11 +4,13 @@
 
 [QMER website](https://amp0129.wixsite.com/qmer)
 
+![](figures/BannerFixed.png){width="400"}
+
+)
 [Auburn R User Group website](https://auqmer.github.io/qmer_rug)
 
 [Personal website](https://www.statistical-thinking.com/)
 
-#### Auburn University
 
 
 
