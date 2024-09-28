@@ -1,6 +1,6 @@
 ## William M., (Hank) Murrah
 
-#### Quantitative Methods in Educational Research (QMER)
+#### Educational Policy and Research Consortium (EPRC)
 
 [insert website]
 
